@@ -63,5 +63,24 @@ a:hover {
   font-size: 4rem;
   color: var(--aqua);
   display: block;
-  font-weight: normal;
+  font-weight: 300;
+}
+
+#intro h2 {
+  font-size: 4rem;
+}
+
+/* contact section */
+
+#contact {
+  background-color: var(--plum);
+  color: var(--white);
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+  padding: 3rem 0;
+}
+
+#contact p:last-child {
+  margin-top: 3rem;
 }
